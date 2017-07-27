@@ -1,0 +1,17 @@
+login_server_id: ragnarok
+login_server_pw: secret
+login_server_db: rathena
+login_case_sensitive: yes
+ipban_db_id: ragnarok
+ipban_db_pw: secret
+ipban_db_db: rathena
+char_server_id: ragnarok
+char_server_pw: secret
+char_server_db: rathena
+map_server_id: ragnarok
+map_server_pw: secret
+map_server_db: rathena
+log_db_id: ragnarok
+log_db_pw: secret
+log_db_db: rathena
+use_sql_db: yes

@@ -1,0 +1,9 @@
+userid: zero
+passwd: jake9898
+server_name: Elsewhere
+pincode_enabled: no
+pincode_force: no
+char_moves_unlimited: yes
+char_ip: 142.54.181.29
+login_ip: 142.54.181.29
+start_point: izlude,192,210:izlude_a,192,210:izlude_b,192,210:izlude_c,192,210

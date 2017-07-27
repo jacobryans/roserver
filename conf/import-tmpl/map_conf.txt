@@ -1,0 +1,4 @@
+userid: server
+passwd: secret
+map_ip: 142.54.181.29
+char_ip: 142.54.181.29
